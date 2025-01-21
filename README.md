@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug in HTML involving a typo in the common 'getElementById' method. The incorrect usage 'getElementByIdx' will not throw an error but simply fail to modify the DOM element. The solution corrects this typo.
